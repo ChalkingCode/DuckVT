@@ -47,6 +47,7 @@ $ pip install -r requirements.txt
 $ vi .env # you could also vim .env or touch .env 
 # once file opens 
 api_key = "Your VT API KEY HERE" 
+```
 
 ## HowTo
 
